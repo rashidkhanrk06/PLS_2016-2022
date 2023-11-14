@@ -1,4 +1,4 @@
-# Premier League Stats Analysis (2016-2022)
+# Pakistan Super League Analysis (2016-2022)
 
 ## Overview
 
